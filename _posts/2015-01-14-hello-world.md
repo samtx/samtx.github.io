@@ -1,2 +1,2 @@
 # Hello World! #
-The first post from Sam'''s new Jekyll blog hosted on GitHub
+The first post from Sam&rsquo;s new Jekyll blog hosted on GitHub
