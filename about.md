@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com) and [Sam Friedman](https://github.com/samtx).
 
 Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
 request a feature, report a bug, or contribute. It's free, and open source
