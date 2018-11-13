@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SamFriedman.me</title>
+    <description>A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.</description>
+    <link>https://samtx.github.io/</link>
+    <atom:link href="https://samtx.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Password Evangelism&amp;#58; The Basics.</title>
+        <description>&lt;p&gt;I’ve been thinking about writing this post for a while now. 
+I’ve been my family and friends’ go-to IT guy for years. 
+I’ve helped people set up their email on their computer, email on their phones, install Microsoft Office, configure Office 365, install printers… you name it.
+In my experience, I’ve learned a lot about good cybersecurity practice, such as what kind of passwords to use, and what is two-factor authentication.&lt;/p&gt;
+
+&lt;p&gt;Basically: how to not get hacked.&lt;/p&gt;
+
+&lt;p&gt;The internet is a fun place, but it can seem complicated to a lot of people, even people that know what they are doing.
+There is a definitely a give and take between having good internet security habits and convenience. 
+But I think that I have a set of principles that most people can easily follow and put themselves in the 95th percentile of cybersecure intenet consumers.
+These rules will be good enough for most people, but if you are a celebrity, journalist, government dissident, or are otherwise a target, these rules aren’t going to be enough to keep you and your digital property safe.&lt;/p&gt;
+
+&lt;p&gt;Many people view passwords as an onerous and unneccesary inconvenience that won’t make a difference because, after all, who wants to hack little old me?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A lot of people want to hack you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I think about password habits as good internet hygiene. People don’t have to be convinced that brushing your teeth twice a day prevents tooth decay and washing your hands after you use the restroom helps stop you from getting sick and spreading germs.
+Having good password habits is the same thing.
+It is as important as brushing your teeth and washing your hands. And people who don’t brush their teeth and wash their hands are gross and nobody likes them. Don’t be that person.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-a-password-manager-and-use-different-complicated-passwords-for-each-online-account&quot;&gt;1. Use a password manager and use different, complicated passwords for each online account&lt;/h2&gt;
+
+&lt;p&gt;This is the number one thing you should do – and always do – to keep yourself from being hacked.
+People have login credentials (username/email and password) for just about everything under the sun.
+Every online service you access each day has its own set of login credentials, and, thanks to consolidation, only a handful of companies own most of the services you use.&lt;/p&gt;
+
+&lt;!--
+For example, I bet most people have at least some of...
+
+ - **Google**: Gmail, Google Drive, Google Maps, Android phones, Google Chrome, Google Docs, Google Play Music. 
+ - **Microsoft**: Outlook.com, hotmail, Office 365 Home and Business, Skype, Office.com.
+ - **Facebook**: facebook.com, any other small service that you log in to via your Facebook account like dating apps, 
+ - **Amazon**: amazon.com shopping, amazon prime video, amazon photos and music, AWS account.
+ - **Netflix**: netflix.com
+ - **Apple**: apple.com, itunes, icloud, iphones
+ - **Yahoo**: Yahoo mail
+
+And most people probably have some online banking at a national bank like Bank of America, Chase, Wells Fargo, or Citibank.
+
+When you sign up for any one of these services, you are trusting the company to safeguard your email and password login credentials.
+Hopefully they keep that information safe somewhere where hackers can&#39;t get to it. 
+And they have encrypted your passwords so that if someone does get their hands on that information it is unusable to them.
+--&gt;
+
+&lt;p&gt;But security breaches happen, and they happen all of the time.
+Companies can get sloppy and your important data can leak out to the dark web, where hackers can sell it for illicit use.
+The first thing hackers will do when they get a usename and password for any service is try to use that login info to get into your email, bank, Facebook, and other top websites.&lt;/p&gt;
+
+&lt;p&gt;The easiest way to get around this is to use a different password for each online service, and the easiest way to do that is with a password manager.
+Password managers are apps that allow you to use a single master password to access the login info for all of your accounts.
+You can use the manager to create random, gibberish passwords for all of your accounts.
+You don’t have to remember them because the password manager remembers them for you.
+All you have to remember is one master password to log in to the manager, then the manager will fill out the login info for your online accounts.&lt;/p&gt;
+
+&lt;p&gt;This is a lot less scary than it sounds. 
+The leading password managers are Lastpass, Dashlane, 1Password, and KeePass.
+Each stores your passwords in an encrypted vault, so that only you have access to it when you use your master password.
+They operate as an extension in your browser and will autofill login pages for you.&lt;/p&gt;
+
+&lt;p&gt;If you are wary of trusting yet another online company to keep all of your passwords, you could also physically write them down in a notebook that keep with you.
+But you could lose that notebook, or leave it somewhere, and then whoever finds it has access to your accounts.
+You could keep that notebook by your desk at home, but then you lose mobility and still have to manually type in complicated passwords each time.&lt;/p&gt;
+
+&lt;p&gt;Password managers are safe and convenient, and their cybersecurity benefits greatly outweigh any downsides that come with them.
+For me, I only remember three passwords: My Lastpass master password, my Texas A&amp;amp;M student login password, and my computer login password. Everything else is kept in my Lastpass vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;b-use-long-random-passwords&quot;&gt;1b. Use long, random passwords&lt;/h2&gt;
+
+&lt;p&gt;It is super important to use passwords that are at least 8 characters in length and are sets of random words or characters.
+This tip is really a subset of the first one because it is nearly impossible to achieve this standard for all your online accounts without using a password manager.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-two-factor-authentication-whenever-possible&quot;&gt;2. Use two-factor authentication whenever possible&lt;/h2&gt;
+
+&lt;p&gt;This protects you from someone logging into your account from a computer that isn’t yours, like a computer in China or Eastern Europe.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-fall-for-email-or-phone-scams&quot;&gt;3. Don’t fall for email or phone scams&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, this happens much more often than one would hope. Eventually, you will get a call from someone claiming to be Microsoft support informing you that your computer needs an update or something. They will want to remotely connect to your computer to help install an update. This is a scam.&lt;/p&gt;
+
+&lt;p&gt;No one from Microsoft will ever call you like this out of the blue. 
+It is hard enough to get proper tech support from Microsoft when &lt;em&gt;you&lt;/em&gt; call &lt;em&gt;them&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The scammer will tell you that the problem is real and scary and they are they to help you. 
+This isn’t true.
+Once you give the scammer remote access to your computer they can do anything they want: upload viruses or malware, copy your private files, delete your files, or even make your computer unbootable. They will probably encrypt your files and hold them for ransom, which you won’t have to pay if you’ve properly backed up your files, but that is for a different post.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+        <link>https://samtx.github.io/2018/11/10/password-evangelism/</link>
+        <guid isPermaLink="true">https://samtx.github.io/2018/11/10/password-evangelism/</guid>
+      </item>
+    
+      <item>
+        <title>Git Commands I Keep Forgetting</title>
+        <description>&lt;p&gt;Show all the branches, both locally and remote:
+&lt;code&gt;git branch -avv&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+        <link>https://samtx.github.io/2017/03/25/git-tips/</link>
+        <guid isPermaLink="true">https://samtx.github.io/2017/03/25/git-tips/</guid>
+      </item>
+    
+      <item>
+        <title>The Most Important Television Show... Ever</title>
+        <description>&lt;p&gt;I can’t stop listening to the They Might Be Giant’s recording of Bob Mould’s song &lt;a href=&quot;https://www.youtube.com/watch?v=E7KiXMfTe5M&quot;&gt;“Dog On Fire”&lt;/a&gt;. You’ve heard it before. It’s the theme song to The Daily Show with John Stewart.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/E7KiXMfTe5M?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I don’t remember the first time I watched the Daily Show. It feels like it has always been there. I watched his show throughout middle school, high school, college, and the five years since then, a kind of north star of satire.&lt;/p&gt;
+
+&lt;p&gt;In the early 2000’s, the voice-over during the Daily Show’s opening sequence used to be &lt;em&gt;“This is the Daily Show with Jon Stewart, the most important television show… ever.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s funny ‘cause it’s true.&lt;/p&gt;
+
+&lt;p&gt;Thanks for the laughs, Jon.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate>
+        <link>https://samtx.github.io/2015/08/06/the-most-important-television-show-ever/</link>
+        <guid isPermaLink="true">https://samtx.github.io/2015/08/06/the-most-important-television-show-ever/</guid>
+      </item>
+    
+      <item>
+        <title>Math Displayed Using MathJax</title>
+        <description>&lt;h3 id=&quot;problem&quot;&gt;Problem&lt;/h3&gt;
+&lt;p&gt;How to find the roots of \(ax^2 + bx + c = 0 \)&lt;/p&gt;
+
+&lt;h3 id=&quot;answer&quot;&gt;Answer&lt;/h3&gt;
+&lt;p&gt;The roots are
+\[
+x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}
+\]&lt;/p&gt;
+
+&lt;h3 id=&quot;some-more-math&quot;&gt;Some more math…&lt;/h3&gt;
+
+&lt;p&gt;\(y = y_0 + \frac{1}{2}gt^2\)&lt;br /&gt;
+linear acceleration!&lt;/p&gt;
+
+&lt;p&gt;Now let’s try some integrals and series summations&lt;/p&gt;
+
+&lt;p&gt;\[
+\displaystyle\sum_{i=1}^{10} t_i
+\]
+\[
+\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
+\]&lt;/p&gt;
+
+&lt;p&gt;Success! This math typesetting is being generated with a call to the &lt;a href=&quot;https://www.mathjax.org/&quot;&gt;mathjax.org&lt;/a&gt;
+site in the &lt;code&gt;head.html&lt;/code&gt; from the &lt;code&gt;_includes&lt;/code&gt; folder in the Jekyll file tree.
+I’m using the &lt;code&gt;https&lt;/code&gt; CDN call in the &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tag, like so:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-r&quot; data-lang=&quot;r&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;!---&lt;/span&gt; For MathJax rendering &lt;span class=&quot;o&quot;&gt;---&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;script type&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt; 
+        src&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Within the markdown file, the math is written like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;### Problem
+How to find the roots of \\(ax^2 + bx + c = 0 \\)
+ 
+### Answer
+The roots are
+\\[
+x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}
+\\]
+
+###Some more math...
+
+\\(y = y_0 + \frac{1}{2}gt^2\\)  
+linear acceleration\!
+
+Now let&#39;s try some integrals and series summations
+
+\\[
+\displaystyle\sum_{i=1}^{10} t_i
+\\]
+\\[
+\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x
+\\]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Learning how to quickly and effectively write in \(\LaTeX\) will be essential in 
+graduate school. Writing in \(\LaTeX\) feels similar to programming, and the syntax
+can be unforgiving. The practice I get by writing down some of my math, physics, and engineering
+notes in this blog will hopefully keep me fresh, if it doesn’t drive me insane first.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I just want to make a Jacobian matrix… How hard is that?!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Full credit goes to the blogs that I referenced to learning how to write this post:
+&lt;a href=&quot;http://gastonsanchez.com/blog/opinion/2014/02/16/Mathjax-with-jekyll.html&quot;&gt;Gaston Sanchez&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.minixli.com/2014/10/20/using-mathjax-with-jekyll/&quot;&gt;kayzhang&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/&quot;&gt;Haixing Hu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And I also found this site by &lt;a href=&quot;https://xuc.me/blog/KaTeX-and-Jekyll/&quot;&gt;Xu Cheng&lt;/a&gt;, specifying 
+how to use KaTeX instead of MathJax to typeset math on Jekyll. It seems very promising, but I’ll leave it as a to-do for now. Today, let’s 
+keep it simple.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+        <link>https://samtx.github.io/2015/07/31/math-example/</link>
+        <guid isPermaLink="true">https://samtx.github.io/2015/07/31/math-example/</guid>
+      </item>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;The first post from Sam’s new Jekyll blog hosted on GitHub.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jan 2015 21:00:00 +0000</pubDate>
+        <link>https://samtx.github.io/jekyll/update/2015/01/14/hello-world/</link>
+        <guid isPermaLink="true">https://samtx.github.io/jekyll/update/2015/01/14/hello-world/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Jan 2015 19:03:22 +0000</pubDate>
+        <link>https://samtx.github.io/jekyll/update/2015/01/14/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://samtx.github.io/jekyll/update/2015/01/14/welcome-to-jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
